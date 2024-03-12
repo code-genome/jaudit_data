@@ -1,0 +1,8 @@
+
+This is a submodule repository of the main Jaudit repository.
+
+This repository contains fingerprint data and sha256 hashes for Java
+libraries and applications that can be added to Jaudit without the
+need for downloading the jar files and processing them.  See
+AddingNewLibraries.txt in the doc/ folder of the main Jaudit
+repository for instructions.
